@@ -237,7 +237,7 @@ In generale abbiamo un **Strong Scaling Efficiency** massimo dell'98% con due pr
 
 ### Candidato
 
-Il seguente progetto è stato realizzato da Graziuso Catello 0522500680 per l'esame di Programmazione concorrente e parallela su Coud
+Il seguente progetto è stato realizzato da Graziuso Catello 0522500680 per l'esame di Programmazione concorrente, parallela su Coud
 
 
 
