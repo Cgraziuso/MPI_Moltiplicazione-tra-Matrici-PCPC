@@ -1,3 +1,11 @@
+## Programmazione Concorrente, Parallela e su Cloud
+### Università degli Studi di Salerno
+#### *Anno Accademico 2018/2019*
+
+**Professore:** _Vittorio Scarano_
+**Dottore:** _Carmine Spagnuolo_
+**Studente:** _Catello Graziuso_
+
 # Moltiplicazione tra Matrici
 
 Il seguente progetto presenta la soluzione alla moltiplicazione di matrici quadrate generate casualmente. In particolare è stato realizzato in modo da poter distribuire il carico del lavoro in base ai processori specificati tramite linea di comando. 
@@ -237,7 +245,7 @@ In generale abbiamo un **Strong Scaling Efficiency** massimo dell'98% con due pr
 
 ### Candidato
 
-Il seguente progetto è stato realizzato da Graziuso Catello 0522500680 per l'esame di Programmazione concorrente, parallela su Coud
+Il seguente progetto è stato realizzato da Graziuso Catello 0522500680 per l'esame di Programmazione concorrente, parallela e su Coud
 
 
 
