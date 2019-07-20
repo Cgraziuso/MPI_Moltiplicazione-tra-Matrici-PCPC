@@ -148,7 +148,7 @@ Di seguito un'immagine che illusta la metodologia di allocazione appena descritt
 
 ## Esecuzione del Benchmark
 Questo benchmark è stato eseguito su un cluster di istanze di tipo t2.XLarge di Amazon Web Service usando StarCluster AMI ami-52a0c53b (Linux Ubuntu).
-I test sono stati effettuati in termini di Weak Scaling e Strong Scaling utilizzando il file *MoltiplicazioneTest.c* eseguendo dieci iterazioni per ogni istanza. Di seguito sono riportati i risualtati dei test.
+I test sono stati effettuati in termini di Weak Scaling e Strong Scaling utilizzando il file *MoltiplicazioneTest.c* eseguendo dieci iterazioni per ogni istanza. Secondo le limitazioni di aws non è stato possibile creare più di cinque istanze di tipo t2.xlarge. Di seguito sono riportati i risualtati dei test.
 
 ### Weak Scalability
  
